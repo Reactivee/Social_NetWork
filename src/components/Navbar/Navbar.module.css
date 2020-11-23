@@ -1,0 +1,9 @@
+.navbar{
+    float: left;
+    width: 25%;
+    background-color: rgb(72, 157, 206);
+    height: 100vh;
+}
+.item a.active{
+    color: red;
+}

@@ -1,0 +1,11 @@
+.dialogs{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.dialogs-items{
+    flex: 30%;
+}
+.messages{
+    flex: 70%;
+}
